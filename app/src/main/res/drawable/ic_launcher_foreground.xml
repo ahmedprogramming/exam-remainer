@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- calendar page -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M40,40h28a4,4 0,0 1,4 4v24a4,4 0,0 1,-4 4h-28a4,4 0,0 1,-4 -4v-24a4,4 0,0 1,4 -4z" />
+    <!-- header band -->
+    <path
+        android:fillColor="#FFC7D2FE"
+        android:pathData="M40,40h28a4,4 0,0 1,4 4v6h-36v-6a4,4 0,0 1,4 -4z" />
+    <!-- binder rings -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M44,35h3.5v9h-3.5z M60.5,35h3.5v9h-3.5z" />
+    <!-- check mark -->
+    <path
+        android:strokeColor="#FF4F46E5"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M45,61l5.5,5.5l11,-12" />
+</vector>
